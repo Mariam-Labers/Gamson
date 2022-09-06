@@ -1,0 +1,18 @@
+.suntaa{
+font-size: 100px;
+font-style:italic;
+display: flex;
+padding:30px ;
+margin: auto;
+background-color: burlywood;
+}
+.marcus{
+    font-size:50px ;
+    font-style: oblique;
+    color: blue;
+}
+.fish{
+    font-size:100px ;
+    font-style: italic;
+    color: chartreuse;
+}
